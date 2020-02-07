@@ -23,6 +23,8 @@
 # and last chars of the string are the same.
 # Note: python does not have a ++ operator, but += works.
 
+__author__ = 'Evan'
+
 
 def match_ends(words):
     count = 0
